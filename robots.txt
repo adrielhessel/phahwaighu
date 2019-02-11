@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nooghu.freiesdesign.org/sitemap.xml
